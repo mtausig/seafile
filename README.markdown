@@ -100,7 +100,7 @@ Our primary goal is to build a first-class product. We think this goal can only 
 Contributing
 ===========
 
-For more information read [Contribution](http://manual.seafile.com/contribution.html).
+For more information read [Contribution](https://manual.seafile.com/contribution/).
 
 
 License
